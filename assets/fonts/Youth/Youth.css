@@ -1,0 +1,5 @@
+﻿@font-face {
+	font-family: Youth;
+	src: url(./Youth.woff2) format("woff2"),
+			 url(./Youth.woff) format("woff");
+}
